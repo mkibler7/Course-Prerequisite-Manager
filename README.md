@@ -57,7 +57,7 @@ CS103,Algorithms,CS102
 ```
 
 Each row includes:  
-`CourseNumber, CourseTitle[Prerequisite1, Prerequisite2, ...]`
+`CourseNumber, CourseTitle, [Prerequisite1, Prerequisite2, ...]`
 
 ## Academic Context
 This project was developed for the final assignment in:
