@@ -1,0 +1,4 @@
+﻿  ProjectTwo.cpp
+I:\School\SNHU\CS 300\Module 7\ProjectTwo\ProjectTwo.cpp(219,9): warning C4551: function call missing argument list
+I:\School\SNHU\CS 300\Module 7\ProjectTwo\ProjectTwo.cpp(341,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ProjectTwo.vcxproj -> I:\School\SNHU\CS 300\Module 7\ProjectTwo\x64\Debug\ProjectTwo.exe
