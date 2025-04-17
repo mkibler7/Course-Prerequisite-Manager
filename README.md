@@ -1,7 +1,6 @@
 # Course Prerequisite Manager
 
 A C++ console application designed to help students and advisors manage university course planning. Built with a custom hash table, this tool loads course data from a CSV file, validates prerequisites, and presents a user-friendly menu to view and interact with course schedules.
-Final project for **CS 300 - Data Structures & Algorithms** at Southern New Hampshire University.
 
 ## Features
 
