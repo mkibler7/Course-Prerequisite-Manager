@@ -69,4 +69,4 @@ This project was developed for the final assignment in:
 ## Author/Contact Info
 
 Created by **Michael Kibler**  
-[LinkedIn](https://www.linkedin.com/in/michael-kibler-11369519b/) | [Email](mailto:mpkibler7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/michael-kibler-11369519b/) | [Email](mailto:michael.kibler.dev@gmail.com)
