@@ -22,11 +22,11 @@ A C++ console application designed to help students and advisors manage universi
 
 ## What I Learned
 
-- Mobile app lifecycle management
-- Building and styling Android UI with XML
-- Handling user input, form validation, and intent-based navigation
-- Working with SQLite databases for persistent storage
-- Writing modular, maintainable Java code using MVC architecture
+- How to design a small C++ application with clear separation of concerns (data model, parsing, storage, and UI/menu flow).
+- How to read and parse CSV input safely, handle malformed rows, and validate relationships like prerequisites.
+- How hash tables work under the hood by implementing chaining for collision handling and tuning lookups.
+- How to debug logic errors systematically (edge cases, invalid prerequisite references, sorting/output issues).
+- How to use core C++ patterns and standard library utilities (strings, vectors, I/O) to build maintainable code.
 
 ## Screenshots
 
